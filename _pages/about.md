@@ -27,5 +27,5 @@ An exploratory analysis on poverty and social inequality in Montreal neighbourho
 
 You can read the whole analysis [here](https://onatekinci.github.io/poverty_social_inequality/).
 
-![Poverty in Montreal](https://github.com/onatekinci/onatekinci.github.io/blob/master/images/seniors_lico_at_2016.png) 
+![Poverty in Montreal](/images/seniors_lico_at_2016.png) 
 
