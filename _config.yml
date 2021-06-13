@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Onat Ekinci / Site Title"
+title                    : "Onat Ekinci"
 title_separator          : "-"
 name                     : &name "Onat Ekinci"
-description              : &Some field notes on social project work"
+description              : &Some field notes on social project work in South-West Montreal"
 url                      : https://onatekinci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onatekinci/onatekinci.github.io"
