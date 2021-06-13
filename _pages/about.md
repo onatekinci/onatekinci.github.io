@@ -21,3 +21,11 @@ You can read the whole analysis [here](https://onatekinci.github.io/logements_so
 ![Social housing in Montreal](/images/carte_logements_sociaux.png)
 
 
+Poverty and Social Inequality in Montreal Neighborhoods according to 2016 Census
+======
+An exploratory analysis on poverty and social inequality in Montreal neighbourhoods. Tidyverse, Leaflet, SF, Cansim and Cancensus are the main packages used in the analysis. 
+
+You can read the whole analysis [here](https://onatekinci.github.io/poverty_social_inequality/).
+
+![Poverty in Montreal](https://github.com/onatekinci/poverty_social_inequality/blob/master/images/seniors_lico_at_2016.png) 
+
