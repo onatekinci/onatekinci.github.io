@@ -12,8 +12,6 @@ Some Notes on Fieldwork in South-West Montreal
 ======
 
 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Social housing in Montreal](/images/carte_logements_sociaux.png)
 
 
