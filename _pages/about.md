@@ -14,9 +14,9 @@ I have been involved in a local social project in the South-West Montreal since 
 
 Social Housing in Montreal: An Analysis Using the Data from Montréal Données Ouvertes (IN FRENCH)
 ======
-There is a huge need for social housing in Quebec [Social housing crisis -Radio Canada](https://ici.radio-canada.ca/nouvelle/1771979/logement-social-crise-montreal-quebec-gatineau) and the needs are constantly increasing due to the real estate speculation of the last decades [Real estate speculation - IRIS](https://cdn.iris-recherche.qc.ca/uploads/publication/file/Spe_culation_immobilie_re_-_Logement_locatif_WEB.pdf)
+There is a huge need for social housing in Quebec [Social housing crisis -Radio Canada](https://ici.radio-canada.ca/nouvelle/1771979/logement-social-crise-montreal-quebec-gatineau) and the needs are constantly increasing due to the real estate speculation of the last decades [Real estate speculation - IRIS](https://cdn.iris-recherche.qc.ca/uploads/publication/file/Spe_culation_immobilie_re_-_Logement_locatif_WEB.pdf).
 
-You can read the whole analysis [here](https://onatekinci.github.io/logements_sociaux/)
+You can read the whole analysis [here](https://onatekinci.github.io/logements_sociaux/).
 
 ![Social housing in Montreal](/images/carte_logements_sociaux.png)
 
