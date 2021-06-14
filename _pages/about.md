@@ -10,7 +10,7 @@ redirect_from:
 
 Some Notes on Fieldwork in South-West Montreal
 ======
-I have been involved in a local social project in the South-West Montreal since the beginning of the pandemic. Our aim is to alleviate the social isolation of low income seniors living alone. I tried to use some data analysis to guide us to identify the low income seniors. I made use of public data resources such as [Statistics Canada](https://www.statcan.gc.ca/), [Montréal Données Ouvertes](https://donnees.montreal.ca/ville-de-montreal/logements-sociaux) and [Census Canada](https://census.gc.ca/index-eng.htm). 
+I have been involved in several social projects in the South-West Montreal (aka le Sud-Ouest) since the beginning of the pandemic. Our aim is to alleviate the social isolation of low income seniors living alone. I tried to use some data analysis to guide us to identify the low income seniors. I made use of public data resources such as [Statistics Canada](https://www.statcan.gc.ca/), [Montréal Données Ouvertes](https://donnees.montreal.ca/ville-de-montreal/logements-sociaux) and [Census Canada](https://census.gc.ca/index-eng.htm). 
 
 Social Housing in Montreal: An Analysis Using the Data from Montréal Données Ouvertes (IN FRENCH)
 ======
